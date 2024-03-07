@@ -1,0 +1,15 @@
+Crie classes em java:
+    Classe: Pessoa
+    Atributos: nome, idade
+
+    Classe: Musica
+    Atributos: titulo, duração, compositor
+    Métodos: tocarMusica
+
+    Classe: Album
+    Atributos: genero, ano, nome, artista, musicas
+    Métodos: mostrarTodosOsDados
+
+Execute a lógica em java
+    Obtenha por scanner os dados de Pessoa, Musica e Album
+    Ao final, mostre todos os dados do Album
